@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0e99451a834048c4fbc3c635f51730a9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146235
+  packageName: Blur Lightweight
+  packageVersion: 1.0
+  assetPath: Assets/Blur LW/Render Pipeline/LightweightRenderPipelineAsset.asset
+  uploadId: 313262

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 20ac1b7c57924814fa42458b52ef2877
+timeCreated: 1485650804
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146235
+  packageName: Blur Lightweight
+  packageVersion: 1.0
+  assetPath: Assets/Blur LW/Examples/Materials/Capsule.mat
+  uploadId: 313262

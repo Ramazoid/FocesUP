@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d19e8f84c116b034ca3bf6de751f05bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135161
+  packageName: PlayerPrefs Viewer
+  packageVersion: 1.1
+  assetPath: Assets/PlayerPrefsViewer/Editor/PlayerPrefsViewer.cs
+  uploadId: 283471

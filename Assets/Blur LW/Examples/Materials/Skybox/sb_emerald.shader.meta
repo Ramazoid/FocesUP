@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: cddbecf2c31122046aa6db53bba00919
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146235
+  packageName: Blur Lightweight
+  packageVersion: 1.0
+  assetPath: Assets/Blur LW/Examples/Materials/Skybox/sb_emerald.shader
+  uploadId: 313262

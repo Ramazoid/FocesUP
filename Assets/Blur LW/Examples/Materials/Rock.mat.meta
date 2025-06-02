@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5017adad6bb6db44f921768caf7825ea
+timeCreated: 1485650804
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146235
+  packageName: Blur Lightweight
+  packageVersion: 1.0
+  assetPath: Assets/Blur LW/Examples/Materials/Rock.mat
+  uploadId: 313262

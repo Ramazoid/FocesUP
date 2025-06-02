@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ff607749b54c34547bb364bebb360899
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 135161
+  packageName: PlayerPrefs Viewer
+  packageVersion: 1.1
+  assetPath: Assets/PlayerPrefsViewer/Documentation.pdf
+  uploadId: 283471

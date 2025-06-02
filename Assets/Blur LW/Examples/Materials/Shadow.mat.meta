@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7f78cea9d817723428f34389b48fe1c5
+timeCreated: 1485650804
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146235
+  packageName: Blur Lightweight
+  packageVersion: 1.0
+  assetPath: Assets/Blur LW/Examples/Materials/Shadow.mat
+  uploadId: 313262

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 95409b3617aea4743b43f59c481a7daf
+timeCreated: 1485661823
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 146235
+  packageName: Blur Lightweight
+  packageVersion: 1.0
+  assetPath: Assets/Blur LW/Examples/Materials/Floor.mat
+  uploadId: 313262
